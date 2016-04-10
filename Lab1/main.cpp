@@ -2,6 +2,7 @@
 
 int main()
 {
+    //главная функция
     Students::get_sum();
     Students *s1 = new Students, *s2 = new Students;
     Students::get_sum();
