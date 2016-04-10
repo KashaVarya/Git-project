@@ -10,6 +10,7 @@ class Students
         static int sum;
         int age;
         float sr_ball;
+        int a, b, add;
     public:
         Students() { sum++; }
         ~Students() { sum--; }

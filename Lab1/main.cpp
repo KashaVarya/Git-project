@@ -3,6 +3,7 @@
 int main()
 {
     //главная функция
+    cout << "Hello" << endl;
     Students::get_sum();
     Students *s1 = new Students, *s2 = new Students;
     Students::get_sum();
