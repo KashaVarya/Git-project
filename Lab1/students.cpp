@@ -1,5 +1,5 @@
 #include "Students.h"
-//функция, считающая ОП
+//функция
 int Students::sum=0;
 void Students::get_sum()
 {
